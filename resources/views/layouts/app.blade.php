@@ -59,7 +59,8 @@
 
     <!-- Footer -->
     <footer class="bg-black border-t border-maroon/30 py-8 text-center text-xs text-gray-400">
-        <p>&copy; 2026 Kashmir Airlines. All Rights Reserved. Pure Luxury Above Clouds.</p>
+        <p>&copy; 2026 Kashmir Airlines. All Rights Reserved. Pure Luxury Above Clouds. <br>Develop by: <br>Ayesha Abdul Aziz <br>
+    @soulwp.com</p>
     </footer>
 
 </body>
